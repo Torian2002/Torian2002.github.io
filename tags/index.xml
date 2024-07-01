@@ -1,8 +1,8 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>Tags - Tag - Welcome to Torian&#39;s space</title>
-        <link>https://torian2002.github.io/tags/</link>
+        <link>http://localhost:1313/tags/</link>
         <description>Tags - Tag - Welcome to Torian&#39;s space</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>tongjiabo159@gmail.com (Torian_Tong)</managingEditor>
-            <webMaster>tongjiabo159@gmail.com (Torian_Tong)</webMaster><atom:link href="https://torian2002.github.io/tags/" rel="self" type="application/rss+xml" /></channel>
+            <webMaster>tongjiabo159@gmail.com (Torian_Tong)</webMaster><atom:link href="http://localhost:1313/tags/" rel="self" type="application/rss+xml" /></channel>
 </rss>

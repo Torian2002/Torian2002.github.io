@@ -2,8 +2,9 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>https://torian2002.github.io/posts/</loc><lastmod>2024-06-30T17:03:46&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://torian2002.github.io/</loc><lastmod>2024-06-30T17:03:46&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://torian2002.github.io/%E6%88%91%E7%9A%84%E4%B8%AD%E6%96%87%E7%AE%80%E5%8E%86/</loc><lastmod>2024-06-30T17:03:46&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://torian2002.github.io/categories/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>https://torian2002.github.io/tags/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url></urlset>
+            <loc>http://localhost:1313/my_cv/</loc><lastmod>2024-07-01T20:28:57&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>http://localhost:1313/posts/</loc><lastmod>2024-07-01T20:28:57&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>http://localhost:1313/</loc><lastmod>2024-07-01T20:28:57&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>http://localhost:1313/%E6%88%91%E7%9A%84%E4%B8%AD%E6%96%87%E7%AE%80%E5%8E%86/</loc><lastmod>2024-06-30T17:03:46&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>http://localhost:1313/categories/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>http://localhost:1313/tags/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url></urlset>
